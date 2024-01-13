@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "6489584827",
+    "project_id": "deprem-harita-e27f2",
+    "storage_bucket": "deprem-harita-e27f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6489584827:android:06279a207759bc8697e59e",
+        "android_client_info": {
+          "package_name": "com.example.depremharita"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkKev5XzWg1Z2QYvy6RG3Jwe9HQ6dufQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
